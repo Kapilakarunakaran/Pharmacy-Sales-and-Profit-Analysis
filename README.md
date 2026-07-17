@@ -223,7 +223,7 @@ This dashboard enables pharmacy leaders to:
 
 👉 **Download the complete Power BI dashboard**
 
-[📂 Pharmacy_Sales_Analysis.pbix](Pharmacy_Sales_Analysis.pbix)
+[📂 Pharmacy_Sales_Analysis.pbix](PHARMACY .F.pbix)
 
 ---
 
