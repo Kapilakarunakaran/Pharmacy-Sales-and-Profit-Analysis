@@ -233,7 +233,7 @@ This dashboard enables pharmacy leaders to:
 
 Provides executives with a complete snapshot of business performance.
 
-![Executive Overview](assets/Executive_Overview.png)
+![Executive Overview](Assets/Executive_Overview.jpg)
 
 ---
 
@@ -241,7 +241,7 @@ Provides executives with a complete snapshot of business performance.
 
 Analyze business performance across countries, cities, and pharmacy locations.
 
-![Geography Analysis](assets/Geography_Analysis.png)
+![Geography Analysis](Assets/Geography.jpg)
 
 ---
 
@@ -249,7 +249,7 @@ Analyze business performance across countries, cities, and pharmacy locations.
 
 Evaluate product sales, profitability, and brand performance.
 
-![Product Analysis](assets/Product_Analysis.png)
+![Product Analysis](Assets/Product.jpg)
 
 ---
 
@@ -257,7 +257,7 @@ Evaluate product sales, profitability, and brand performance.
 
 A well-designed **Star Schema** supports fast filtering, efficient DAX calculations, and interactive reporting across products, pharmacies, geography, and time dimensions.
 
-![Data Model](assets/Data_Model.png)
+![Data Model](Assets/Data_Model.png)
 
 ---
 
